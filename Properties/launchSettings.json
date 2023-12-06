@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLineParserExample": {
+      "commandName": "Project",
+      //"commandLineArgs": "--a SHA256 --p text"
+    }
+  }
+}
